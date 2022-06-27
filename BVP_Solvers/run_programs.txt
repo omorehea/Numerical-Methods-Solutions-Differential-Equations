@@ -1,3 +1,0 @@
-Python code for HW1 Problems 1 and 2.
-To run the Python script for each problem, one can use any interactive session.
-The Numerical_Schemes.py program contains a variety of the ODE solver methods use in both the problem 1 and problem 1 driver programs.
